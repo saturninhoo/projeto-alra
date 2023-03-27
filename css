@@ -23,8 +23,9 @@ body {
 }
 
 .cabeçalho-menu {
-    displey: flex;
-    gap: 10px 20px;
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 16px;
 }
 
 .cabeçalho-menu-item {
