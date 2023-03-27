@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family= Edu+NSW+ACT+Foundation & display =swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%
+    blackground: linear-gradien(68.15deg, #)
+}
