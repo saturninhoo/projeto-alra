@@ -11,4 +11,5 @@ body {
 
 .cabeçalho {
     display: flex;
+    flex-direction: row;
 }
