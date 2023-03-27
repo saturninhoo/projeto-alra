@@ -19,3 +19,19 @@ body {
     justify-content: space-around;
     padding: 20px;
 }
+
+.cabeçalho-imagem {
+    height: 60px;
+}
+
+.cabeçalho-menu {
+    displey: flex;
+    gap: 10px 20px;
+}
+
+.cabeçalho-menu-item {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    color: #ffffff;
+    font-weight: 450;
+    font-size: 20px
+}
