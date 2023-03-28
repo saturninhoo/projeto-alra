@@ -24,6 +24,10 @@ body {
     font-size: 16px;
 }
 
+.conteudo{
+    background-image: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(205,221,118,1) 53%, rgba(62,149,167,1) 100%);
+}
+
 .conteudo-principal-imagem {
     width: 36%;
 }
