@@ -53,7 +53,9 @@ body {
 }
 
 .conteudo-principal-escrito-titulo {
-
+    font-weight: 400;
+    font-size: 60px;
+    color: aliceblue;
 }
 
 .conteudo-principal-imagem{
