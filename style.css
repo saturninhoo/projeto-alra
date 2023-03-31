@@ -61,7 +61,7 @@ body {
 .conteudo-principal-escrito-subtitulo {
     font-weight: 400;
     font-size: 25px;
-    color: aliceblue;    
+    color: rgb(86, 166, 236);
 }
 
 .conteudo-principal-escrito-botao {
@@ -72,7 +72,7 @@ body {
     border-radius: 20px;
     font-weight: 400;
     font-size: 24px;
-    color: aliceblue;
+    color: rgb(86, 166, 236);
 }
 
 .conteudo-principal-escrito-botao:hover {
