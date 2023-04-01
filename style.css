@@ -33,7 +33,7 @@ body {
 .conteudo {
     margin-bottom: 45px;
     background: linear-gradient(90deg, rgba(128,173,188,1) 0%, rgba(223,216,171,1) 53%, rgba(173,181,190,1) 100%);
-    color: white;
+    color: #b0b6b8;
     display: flex;
     justify-content: center;
 }
@@ -55,13 +55,13 @@ body {
 .conteudo-principal-escrito-titulo {
     font-weight: 300;
     font-size: 50px;
-    color: rgb(86, 166, 236);
+    color: #856965;
 }
 
 .conteudo-principal-escrito-subtitulo {
     font-weight: 400;
     font-size: 25px;
-    color: rgb(86, 166, 236);
+    color: #97928a;
 }
 
 .conteudo-principal-escrito-botao {
@@ -76,7 +76,7 @@ body {
 }
 
 .conteudo-principal-escrito-botao:hover {
-    background-color: rgba(236, 214, 196, 0.53);
+    background-color: #97928a;
 }
 
 .conteudo-principal-imagem {
