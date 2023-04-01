@@ -84,10 +84,6 @@ body {
     background-color: #97928a;
 }
 
-.conteudo-principal-imagem {
-    height: 400px;
-}
-
 .conteudo-secundario {
     display: flex;
     flex-direction: column;
