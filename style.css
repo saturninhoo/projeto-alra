@@ -9,6 +9,7 @@ body {
     font-size: 100%;
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(90deg, rgba(128,173,188,1) 0%, rgba(223,216,171,1) 53%, rgba(173,181,190,1) 100%);}
+    
 .cabecalho {
     display: flex;
     flex-direction: row;
