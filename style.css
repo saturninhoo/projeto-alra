@@ -96,14 +96,6 @@ body {
     margin-top: 50px;
 }
 
-.conteudo-secundario-titulo {
-    border-top: 0.4px solid aliceblue;
-    padding-top: 50px;
-    font-weight: 400;
-    font-size: 24px;
-    color: aliceblue;
-}
-
 .rodape {
     padding: 30px;
     border-top: 0.4px solid aliceblue;
@@ -113,6 +105,14 @@ body {
     height: 50px;
     display: block;
     margin: 0 auto;
+}
+
+.conteudo-secundario-titulo {
+    border-top: 0.4px solid aliceblue;
+    padding-top: 50px;
+    font-weight: 400;
+    font-size: 24px;
+    color: aliceblue;
 }
 
 .conteudo-secundario-paragrafo {
