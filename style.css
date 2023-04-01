@@ -28,6 +28,7 @@ body {
     color: aliceblue;
     font-weight: 400;
     font-size: 18px;
+    justify-items: end;
 }
 
 .conteudo {
@@ -56,6 +57,7 @@ body {
     font-weight: 300;
     font-size: 50px;
     color: #856965;
+    justify-content: center;
 }
 
 .conteudo-principal-escrito-subtitulo {
@@ -67,6 +69,7 @@ body {
     font-weight: 400;
     font-size: 24px;
     color: #97928a;
+    align-content: space-around;
 }
 
 .conteudo-principal-escrito-botao {
@@ -78,6 +81,7 @@ body {
     font-weight: 400;
     font-size: 24px;
     color: #97928a;
+    align-content: space-around;
 }
 
 .conteudo-principal-escrito-botao:hover {
