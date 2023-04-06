@@ -23,6 +23,11 @@ body {
     gap: 30px;
 }
 
+.cabecalho-imagem {
+    padding: 15px 0;
+    align-items: center;
+}
+
 .cabeçalho-menu-item {
     color: aliceblue;
     font-weight: 400;
