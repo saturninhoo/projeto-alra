@@ -10,10 +10,6 @@ body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(90deg, rgba(128,173,188,1) 0%, rgba(223,216,171,1) 53%, rgba(173,181,190,1) 100%);}
 
-.cabecalho-imagem {
-    justify-content: start;
-}
-
 .cabecalho {
     display: flex;
     flex-direction: row;
@@ -28,7 +24,6 @@ body {
 }
 
 .cabeçalho-menu-item {
-    font-family: 'Courier New', Courier, monospace;
     color: aliceblue;
     font-weight: 400;
     font-size: 18px;
