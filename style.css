@@ -30,7 +30,7 @@ body {
     justify-content: flex-end;
 }
 .cabeçalho-imagem {
-    height: 10px;
+    width: 20;
 }
 
 .conteudo {
