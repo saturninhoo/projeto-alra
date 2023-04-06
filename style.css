@@ -18,14 +18,14 @@ body {
     padding: 24px 0;
 }
 
+.cabecalho-imagem {
+    align-items: center;
+    padding: 15px 0;
+}
+
 .cabeçalho-menu {
     display: flex;
     gap: 30px;
-}
-
-.cabecalho-imagem {
-    padding: 15px 0;
-    align-items: center;
 }
 
 .cabeçalho-menu-item {
