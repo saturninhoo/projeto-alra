@@ -26,11 +26,8 @@ body {
 .cabeçalho-menu-item {
     color: aliceblue;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 20px;
     justify-content: flex-end;
-}
-.cabeçalho-imagem {
-    width: 20px;
 }
 
 .conteudo {
