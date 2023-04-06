@@ -27,7 +27,7 @@ body {
     color: aliceblue;
     font-weight: 400;
     font-size: 18px;
-    justify-content: end;
+    justify-content: flex-end;
 }
 
 .conteudo {
