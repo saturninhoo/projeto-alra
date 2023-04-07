@@ -130,4 +130,7 @@ body {
     font-weight: 300;
     font-size: 18px;
     color: aliceblue;
+    padding-top: 10px;
+    height: 100px;
+    width: 600px;
 }
