@@ -108,12 +108,12 @@ body {
 }
 
 .rodape {
-    padding: 30px;
+    padding: 20px;
     border-top: 0.4px solid aliceblue;
 }
 
 .rodape-imagem {
-    height: 50px;
+    height: 40px;
     display: block;
     margin: 0 auto;
 }
