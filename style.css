@@ -36,7 +36,6 @@ body {
     justify-content: flex-end;
     padding: 15px 0;
     align-items: center;
-    height: 20px;
 }
 
 .conteudo {
@@ -109,7 +108,7 @@ body {
 }
 
 .rodape {
-    padding: 50px;
+    padding: 200px;
     border-top: 0.4px solid aliceblue;
 }
 
